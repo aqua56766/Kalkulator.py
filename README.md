@@ -1,1 +1,1 @@
-# Kalkulator.py
+# Kalkulator-py/
